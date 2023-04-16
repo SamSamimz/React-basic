@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "author": "Jane Smith",
+      "published_at": "2022-03-01T10:30:00Z",
+      "content": "JSON stands for JavaScript Object Notation...",
+      "tags": ["json", "data", "web"]
+    },
+    {
+      "id": 2,
+      "title": "Using JSON with Python",
+      "author": "John Doe",
+      "published_at": "2022-03-15T15:45:00Z",
+      "content": "Python provides a built-in library for parsing and creating JSON...",
+      "tags": ["json", "python", "data"]
+    },
+    {
+      "id": 3,
+      "title": "JSON vs XML",
+      "author": "Alice Jones",
+      "published_at": "2022-04-01T08:00:00Z",
+      "content": "JSON and XML are both used for data exchange...",
+      "tags": ["json", "xml", "data", "web"]
+    }
+  ]
+}
